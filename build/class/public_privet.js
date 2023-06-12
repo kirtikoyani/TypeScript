@@ -1,6 +1,7 @@
 "use strict";
 // class User {
 //     name = "";
+Object.defineProperty(exports, "__esModule", { value: true });
 //     setName(name) {
 //         this.name = name
 //     }
